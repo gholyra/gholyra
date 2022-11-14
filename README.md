@@ -4,7 +4,8 @@
 
 Técnico em Programação de Jogos Digitais pelo Colégio FECAP, e estudante no bacharelado de Sistemas de Informação da FIAP, com interesse em aprender mais sobre o mercado de jogos digitais e com o objetivo de trabalhar na área de desenvolvimento de jogos ou em semelhantes do mercado de TI, visando agregar experiência e conhecimento sobre o mercado. 
 
-
+# Olá, me chamo SeuNomeAqui ! 
+## Bem vindo ao meu perfil GitHub 👋
 
 <!--
 **gholyra/gholyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
