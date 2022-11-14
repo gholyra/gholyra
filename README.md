@@ -1,6 +1,6 @@
-### Olá! Como você está? Meu nome é Tiago, e sou um desenvolvedor de jogos! 👋🙂 
+### Olá! Como você está? Meu nome é Tiago, e sou um desenvolvedor de jogos! 👋🙂
 
-olá mundo. Eu sou o Pedro Caires e esse é meu GitHub.
+# Olá! Como você está? Meu nome é Tiago, e sou um desenvolvedor de jogos! 👋🙂
 
 <!--
 **gholyra/gholyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
