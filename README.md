@@ -1,4 +1,5 @@
-# 👋 Olá! Como você está? Meu nome é Tiago. Sou um desenvolvedor de jogos! 🙂🕹
+# 👋 Olá! Como você está? Meu nome é Tiago. 
+# Sou um desenvolvedor de jogos! 🙂🕹
 
 ## Bem vindo ao meu perfil GitHub! 
 
