@@ -4,7 +4,7 @@
 
 ### 👤 Quem sou eu? 
 
-Técnico em Programação de Jogos Digitais pelo Colégio FECAP, e estudante no bacharelado de Sistemas de Informação da FIAP, com interesse em aprender mais sobre o mercado de jogos digitais e com o objetivo de trabalhar na área de desenvolvimento de jogos ou em semelhantes do mercado de TI, visando agregar experiência e conhecimento sobre o mercado. 
+Sou um estudante e desenvolvedor apaixonado por jogos digitais, com interesse em aprender mais sobre este mercado e com o objetivo de trabalhar na área ou em semelhantes do mercado de TI, visando agregar experiência e conhecimento.
 
 
 <!--
@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contatos:
+
+<div>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tiagomlyra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
