@@ -1,7 +1,5 @@
 # 👋 Olá! Como você está? Meu nome é Tiago.                                                                                                                                Sou um desenvolvedor de jogos! 🙂🕹
 
-## Bem vindo ao meu perfil GitHub! 
-
 ### 👤 Sobre mim
 
 Técnico em Programação de Jogos Digitais pelo Colégio FECAP, e estudante no bacharelado de Sistemas de Informação da FIAP. Desenvolvedor apaixonado por jogos digitais, com interesse em aprender mais sobre este mercado e com o objetivo de trabalhar na área ou em semelhantes do mercado de TI, visando agregar experiência e conhecimento.
