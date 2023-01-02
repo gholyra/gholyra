@@ -1,4 +1,4 @@
-# 👋 Olá! Como você está? Meu nome é Tiago.                                                                                                                                Sou um desenvolvedor de jogos! 🙂🕹
+# 👋 Olá! Como você está? Meu nome é Tiago.                                                                                                                                Sou um desenvolvedor back-end! 🙂
 
 ### 👤 Sobre mim:
 
