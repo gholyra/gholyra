@@ -4,7 +4,7 @@
 
 Desenvolvedor Back-End com foco nas linguagens Java e C++, técnico em Programação de Jogos Digitais pelo Colégio FECAP, e estudante no bacharelado de Sistemas de Informação da FIAP.
 
-Possuo o objetivo de trabalhar no mercado de T.I., migrando da área de jogos digitais para a área de desenvolvimento de software em geral, visando agregar experiência e conhecimento sobre programação como um todo.
+Possuo o objetivo de trabalhar no mercado de TI ou no mercado de jogos digitais, focando no desenvolvimento de software, visando agregar experiência e conhecimento e moldá-lo de acordo com a necessidade.
 
 
 <!--
