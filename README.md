@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div align=center>
 <a href="https://github.com/gholyra">
 <img width=41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=radical"/>
-<img width=49% height="195px" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=radical"/>
+<img width=49% height="195px" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=radical&cache_seconds=7200"/>
 </div>
 
 <div align=center>
