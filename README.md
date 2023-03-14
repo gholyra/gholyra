@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 </div>
 
 ### 📅 Estatísticas do Git:
-![Gholy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=radical)
-![Gholy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gholyra&theme=dark&show_icons=true)
+
 <div>
 <a href="https://github.com/gholyra">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=dracula"/>
+  ![Gholy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=radical)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
