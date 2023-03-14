@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🔗 Links:
 
-<div>
+<div align=center>
 <a href = "mailto:tiago.mlyra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tiagomlyra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://linktr.ee/tiago_mlyra"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 ![Gholy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&theme=radical)](https://github.com/gholyra/github-readme-stats)
-<div>
+<div align=center>
 <a href="https://github.com/gholyra">
-<img width=50% height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=dracula"/>
-<img width=50% height="180em" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width=41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=radical"/>
+<img width=49% height="195px" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=radical&include_all_commits=true"/>
 </div>
   
 ![Snake animation](https://github.com/gholyra/gholyra/blob/output/github-contribution-grid-snake.svg)
