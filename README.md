@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ### 📅 Estatísticas do Git:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gholyra)](https://github.com/gholyra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true)
 <div>
 <a href="https://github.com/gholyra">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=dracula"/>
