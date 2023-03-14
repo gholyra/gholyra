@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Olá%20!&fontSize=60&fontColor=fff" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7CB9E8,100:0039a6&height=150&section=header&text=Olá%20!&fontSize=44&fontColor=B9D9EB&fontAlignY=40" />
 # 👋 Olá! Como você está? Meu nome é Tiago.                                                                                                                                Sou um desenvolvedor back-end! 🙂
 
 ### 👤 Sobre mim:
@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&theme=radical)](https://github.com/gholyra/github-readme-stats)
 <div>
 <a href="https://github.com/gholyra">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width=100% height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=dracula"/>
+<img width=100% height="180em" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ![Snake animation](https://github.com/gholyra/gholyra/blob/output/github-contribution-grid-snake.svg)
