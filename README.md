@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&theme=radical)](https://github.com/gholyra/github-readme-stats)
 <div>
 <a href="https://github.com/gholyra">
-<img width=100% height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=dracula"/>
-<img width=100% height="180em" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width=50% height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=dracula"/>
+<img width=50% height="180em" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ![Snake animation](https://github.com/gholyra/gholyra/blob/output/github-contribution-grid-snake.svg)
