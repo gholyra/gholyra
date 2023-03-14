@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&color=0:1c0f46,90:2a4eb1height=200&section=header&text=Olá%20!&fontSize=60" />
 # 👋 Olá! Como você está? Meu nome é Tiago.                                                                                                                                Sou um desenvolvedor back-end! 🙂
 
 ### 👤 Sobre mim:
