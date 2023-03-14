@@ -30,16 +30,17 @@ Here are some ideas to get you started:
 <a href = "mailto:tiago.mlyra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tiagomlyra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://linktr.ee/tiago_mlyra"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
+<a href="https://gholy.itch.io"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 </div>
 
 ### 📅 Estatísticas do Git:
 
-![Gholy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&theme=radical)](https://github.com/gholyra/github-readme-stats)
 <div align=center>
 <a href="https://github.com/gholyra">
 <img width=41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=radical"/>
-<img width=49% height="195px" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=radical&include_all_commits=true"/>
+<img width=49% height="195px" src="https://github-readme-stats.vercel.app/api?username=gholyra&show_icons=true&theme=radical"/>
 </div>
-  
-![Snake animation](https://github.com/gholyra/gholyra/blob/output/github-contribution-grid-snake.svg)
+
+<div align=center>
+<img width=100% src="https://github.com/gholyra/gholyra/blob/output/github-contribution-grid-snake.svg"/>
+</div>
