@@ -6,9 +6,6 @@
 
 Desenvolvedor Back-End com foco nas linguagens Java e C++, técnico em Programação de Jogos Digitais pelo Colégio FECAP, e estudante no tecnólogo de Jogos Digitais da FIAP.
 
-Possuo o objetivo de trabalhar no mercado de TI ou no mercado de jogos digitais, focando no desenvolvimento de software, visando agregar experiência e conhecimento e moldá-lo de acordo com a necessidade.
-
-
 <!--
 **gholyra/gholyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
