@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-<img width=100% src="https://github.com/gholyra/gholyra/blob/main/github-contribution-grid-snake.svg"/>
+<img width=100% src="https://github.com/gholyra/gholyra/blob/output/github-contribution-grid-snake.svg"/>
 </div>
