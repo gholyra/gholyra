@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7CB9E8,100:0039a6&height=150&section=header&text=Olá%20!&fontSize=44&fontColor=B9D9EB&fontAlignY=40" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7CB9E8,100:0039a6&height=150&section=header&text=Olá!&fontSize=44&fontColor=B9D9EB&fontAlignY=40" />
 
 # 👋 Olá! Como você está? Meu nome é Tiago. Sou um desenvolvedor back-end! 🙂
 
