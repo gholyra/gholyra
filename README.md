@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7CB9E8,100:0039a6&height=150&section=header&text==)&fontSize=44&fontColor=B9D9EB&fontAlignY=40" />
 
-# 👋 Hi! How are you? My name is Tiago, and I am a game developer! 🙂
+# 👋Hi! How are you? My name is Tiago, I am a game developer!🙂
 
 ### 👤 Sobre mim:
 
