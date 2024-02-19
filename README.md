@@ -4,7 +4,7 @@
 
 ### 👤 Sobre mim:
 
-Desenvolvedor Back-End com foco nas linguagens Java e C#, técnico em Programação de Jogos Digitais pelo Colégio FECAP, e estudante no tecnólogo de Jogos Digitais da FIAP.
+Estagiário de Quality Assurance na Fanatee, desenvolvedor back-end com foco nas linguagens Java e C#, técnico em Programação de Jogos Digitais pelo Colégio FECAP, e estudante no tecnólogo de Jogos Digitais da FIAP.
 
 <!--
 **gholyra/gholyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
