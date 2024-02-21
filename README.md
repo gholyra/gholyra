@@ -4,7 +4,7 @@
 
 ### 👤 About me:
 
-QA intern at Fanatee, Unity game developer, high school technical certificate in Digital Games Programming by FECAP, and technologist student in Digital Games at FIAP.
+QA intern at Fanatee, Unity game developer, technical high school certificate in Digital Games Programming by FECAP, and technologist student in Digital Games at FIAP.
 
 <!--
 **gholyra/gholyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
