@@ -2,9 +2,9 @@
 
 # 👋Hi! How are you? My name is Tiago, I am a game developer!🙂
 
-### 👤 Sobre mim:
+### 👤 About me:
 
-Estagiário de Quality Assurance na Fanatee, desenvolvedor back-end com foco nas linguagens Java e C#, técnico em Programação de Jogos Digitais pelo Colégio FECAP, e estudante no tecnólogo de Jogos Digitais da FIAP.
+QA intern at Fanatee, Unity game developer, high school technical certificate in Digital Games Programming by FECAP, and technologist student in Digital Games tecnólogo at FIAP.
 
 <!--
 **gholyra/gholyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://gholy.itch.io"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 </div>
 
-### 📅 Estatísticas do Git:
+### 📅 Git Stats:
 
 <a href="https://github.com/gholyra">
 <img align=center width=41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholyra&layout=compact&langs_count=7&theme=radical"/>
